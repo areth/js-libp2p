@@ -1,0 +1,7 @@
+#**/!(latency-monitor)/dist/**/*
+**/*.min.js
+**/*.js.map
+node_modules/wrtc/**/*
+node_modules/react-icons/**/*
+node_modules/documentation/**/*
+node_modules/clean-documentation-theme/**/*
